@@ -63,7 +63,7 @@ Servicio externo de validación (si aplica)
 Entidades del dominio
 Existen aunque la aplicación se caiga.
 
-#### Producto
+### Producto
 SKU, precio, variaciones, stock
 
 ### Pedido / Orden

@@ -158,7 +158,7 @@ Romperás integridad sin darte cuenta
 
 Representa la realidad del negocio, no del sistema
 
-![Diagrama de dominio](diagrama-dominio.svg)
+![Diagrama de dominio](diagrama-dominio.excalidraw.svg)
 
 <hr>
 
